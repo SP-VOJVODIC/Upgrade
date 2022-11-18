@@ -1,0 +1,2 @@
+# Upgrade
+Ažuriranje knjigovodstvene aplikacije
